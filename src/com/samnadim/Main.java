@@ -11,6 +11,7 @@ public class Main {
         System.out.println(numberOne + numberTwo);
         System.out.println(numberOne - numberTwo);
         System.out.println(numberOne * numberTwo);
+        System.out.println(numberOne * numberTwo);
         System.out.println(numberOne / numberTwo);
         System.out.println(numberOne % numberTwo);
 
