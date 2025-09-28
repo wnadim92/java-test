@@ -20,9 +20,9 @@ public class Main {
         byte n = 127;
         byte o = -128;
         short p = 32700;
-        int q = 2000000000;
-        long r= 2000000000;
-        double t = 3.141592653414;
+        int q = 2_000_000_000;
+        long r= 2_000_000_000;
+        double t = 3.141_592_653_414;
 
     }
 
