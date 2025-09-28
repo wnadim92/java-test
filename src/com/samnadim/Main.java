@@ -17,6 +17,12 @@ public class Main {
         char b = 'b';
         char A = 'A';
         char B = 'B';
+        byte n = 127;
+        byte o = -128;
+        short p = 32700;
+        int q = 2000000000;
+        long r= 2000000000;
+        double t = 3.141592653414;
 
     }
 
