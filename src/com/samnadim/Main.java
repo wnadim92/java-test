@@ -13,6 +13,11 @@ public class Main {
         System.out.println(result);
         double pi = 3.14;
         boolean isCat = true;
+        char a = 'a';
+        char b = 'b';
+        char A = 'A';
+        char B = 'B';
+
     }
 
 
