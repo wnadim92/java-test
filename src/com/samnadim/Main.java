@@ -6,15 +6,15 @@ public class Main {
 
 
     public static void main(String[] args) {
-        int numberOne = 10;
-        int numberTwo = 3;
-        System.out.println(numberOne + numberTwo);
-        System.out.println(numberOne - numberTwo);
-        System.out.println(numberOne * numberTwo);
-        System.out.println(numberOne * numberTwo);
-        System.out.println(numberOne / numberTwo);
-        System.out.println(numberOne % numberTwo);
-
+        String amigos = "Amigos";
+        String code = "Code";
+        String brand = amigos + code;
+        System.out.println(brand);
+        System.out.println(brand.toLowerCase());
+        System.out.println(brand.toUpperCase());
+        System.out.println("   ".isBlank());
+        System.out.println("   ".isEmpty());
+        System.out.println("  a ".trim());
 
     }
 
