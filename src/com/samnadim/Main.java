@@ -11,6 +11,8 @@ public class Main {
         int number2 = 20;
         int result = number1 + number2;
         System.out.println(result);
+        double pi = 3.14;
+        boolean isCat = true;
     }
 
 
