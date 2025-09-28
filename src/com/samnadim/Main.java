@@ -6,11 +6,11 @@ public class Main {
 
 
     public static void main(String[] args) {
-        // single line
-        /*
-        System.out.println("Hello and welcome!");
-        System.out.println(10 - 10);
-        */
+        // primitives
+        int number1 = 20;
+        int number2 = 20;
+        int result = number1 + number2;
+        System.out.println(result);
     }
 
 
